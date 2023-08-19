@@ -24,6 +24,10 @@ A full-stack movie review application built with Java, Spring Boot, MongoDB, and
 
 
 
-<h1>Video Demo 🎥</h1>
-![](https://github.com/Movie-Review-Application-Java-SpringBoot-MongoDB-React/Movie-GIF.gif)
+<h1>Video Demo 👀</h1>
+
+
+
+https://github.com/atharvabiyani/Movie-Review-Application-Java-SpringBoot-MongoDB-React/assets/125630245/4f9a494d-98f7-45d6-a5ff-52fcf07efc68
+
 
