@@ -25,5 +25,5 @@ A full-stack movie review application built with Java, Spring Boot, MongoDB, and
 
 
 <h1>Video Demo 🎥</h1>
-
+![](https://github.com/Movie-Review-Application-Java-SpringBoot-MongoDB-React/Movie-GIF.gif)
 
